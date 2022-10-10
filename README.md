@@ -3,4 +3,4 @@
 
 -Monostable Multivibrator with Rising Edge Detection 555 IC
 
--Monostable Multivibrator with 8-bit timer
+-Monostable Multivibrator with 8-bit timer(never been tried fully)
